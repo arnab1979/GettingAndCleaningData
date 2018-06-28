@@ -1,0 +1,6 @@
+x_train: Stores training data from X_train file
+y_train: Stores training data from Y_train file
+x_test: Stores test data from X_test file
+y_test: Stores test data from Y_test file 
+features: Stores the features
+activityLabels : Stores Activity Labels from activity_labels.txt file
